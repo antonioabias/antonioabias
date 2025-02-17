@@ -106,26 +106,50 @@
 <br/><br/>
 <hr/>
 <br/>
+-->
 
-<h2>🎓 Education & Certifications </h2>
+<h2>🎓 Education & Certifications</h2>
 <br/>
-<div>
 
-- **Bachelor of Science in Computer Science** | University of Nueva Caceres | June 2024
-- **Computer Programming** | Camarines Sur National High School | April 2018
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <!-- Education -->
+  <h3>📚 Education</h3>
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <!-- UNC -->
+    <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" alt="UNC Logo" width="50" style="margin-right: 15px;" />
+    <div>
+      <strong>Bachelor of Science in Computer Science</strong><br/>
+      <span style="font-size: 0.9em; color: #555;">University of Nueva Caceres</span>
+    </div>
+  </div>
 
-### Certifications:
-- **Amazon Web Services**: Cloud Foundations | Cloud Operations | Cloud Architecting | Cloud Developing
-- **Google Cloud Skills Boost**: Prompt Design in Vertex AI Skill Badge
-- **Cisco Networking Academy**: Introduction to Cybersecurity
-- **Oracle Database Foundations Certified Junior Associate**
-- **Amazon Cybersecurity Awareness**
-- **Sololearn**: SQL, Python, C
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <!-- CamHigh -->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYwBW0XIb0J3VOXY3aHTLp9iPnQ_wxHyuEFPBrcYs5HXCg9Cishfza2SUvLRPqjWCNoQ&usqp=CAU" alt="CamHigh Logo" width="50" style="margin-right: 15px;" />
+    <div>
+      <strong>Computer Programming</strong><br/>
+      <span style="font-size: 0.9em; color: #555;">Camarines Sur National High School</span>
+    </div>
+  </div>
 
+  <!-- Certifications -->
+  <h3>📜 Certifications</h3>
+  <div style="margin-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li><strong>Amazon Web Services (AWS):</strong> Cloud Foundations | Cloud Operations | Cloud Architecting | Cloud Developing</li>
+      <li><strong>Google Cloud Skills Boost:</strong> Prompt Design in Vertex AI Skill Badge</li>
+      <li><strong>Cisco Networking Academy:</strong> Introduction to Cybersecurity</li>
+      <li><strong>Oracle Database Foundations:</strong> Certified Junior Associate</li>
+      <li><strong>Amazon Cybersecurity Awareness</strong></li>
+      <li><strong>Sololearn:</strong> SQL, Python, C</li>
+    </ul>
+  </div>
 </div>
+
 <br/>
 <hr/>
 
+<!--
 <h2>🎮 Mini Game: Catch the Ball 🎮</h2>
 <br/>
 <div id="game-container" style="width: 300px; height: 200px; position: relative; border: 1px solid black; margin: auto;">
