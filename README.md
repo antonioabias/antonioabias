@@ -6,10 +6,13 @@
 </a>
 </h1>
 
+
+
 <h3 align="center">
   A creative developer passionate about designing visually stunning websites and applications. ✨💻
 </h3>
 <br/>
+
 
 
 <div align="center">
@@ -18,19 +21,22 @@
   💬 Feel free to ask me about **front-end design, back-end development, or game development**—I love discussing tech!
   ⚡ Fun fact: I enjoy combining programming with art to create engaging user experiences!
 </div>
-
 <br/>
+
+
+
 <div align="center">
   <a href="mailto:antonioabias23.aa@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/antonio-abias-501a912b8" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://png.pngtree.com/png-vector/20230316/ourmid/pngtree-website-under-construction-in-yellow-rounded-square-shape-with-black-line-vector-png-image_6649503.png" target="_blank" title="Check out my portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-%23FF6F61?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/028/149/207/small_2x/3d-warning-or-danger-risk-message-alert-problem-icon-png.png" alt="Portfolio" width="35" height="35" style="vertical-align: middle;" />
   </a>
 </div>
+
 
 
 <br/>
@@ -42,29 +48,28 @@
 <br/>
 <div>
   
-### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="35" height="35"/> E-Buddy: Personalized Criminology Board Exam Reviewer**
+### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: Personalized Criminology Board Exam Reviewer**
   
-- **Tech Stack**: HTML, CSS, JavaScript, Firebase, Visual Studio Code
+- **Tech Stack**: HTML, CSS, JavaScript, Firebase
 - As the lead developer in a two-person team, I played a pivotal role in creating **E-Buddy**, a dynamic web-based board exam reviewer for criminology students. Using the C4.5 decision tree algorithm, E-Buddy offers a user-friendly interface that personalizes the learning experience, helping students master key concepts and preparing them effectively for their exams.
 
 
-### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="28" height="28" style="vertical-align: middle; margin-right: 8px;"/>  Sales Information System**
+### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/>  Sales Information System**
 
-- **Tech Stack**: PHP, MySQL, Brackets
-- Developed a Sales Information System for a local shop as part of our Grade 12 final project. The system streamlined inventory management and customer data using PHP for the backend and MySQL for the database. Built with Brackets, the web-based application provided an intuitive interface for shop owners to manage daily operations efficiently, improving productivity and reducing manual errors.
+- **Tech Stack**: PHP, MySQL
+- Developed a Sales Information System for a local shop as part of our Grade 12 final project. This web-based application simplified inventory management and customer data using PHP and MySQL. It offered an easy-to-use interface, helping shop owners streamline daily operations, improved productivity, and minimized manual errors.
 
 
-### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="35" height="35"/> Zombie Maze (Game Development Project)**
+### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze (Game Development Project)**
 
-- **Tech Stack**: Java, Eclipse
+- **Tech Stack**: Java
 - I led a team in developing "Zombie Maze," a game we created for the Software Festival in 2017 while I was in Grade 11. This project allowed me to combine my programming skills with artistic creativity, resulting in engaging visuals and compelling gameplay mechanics.
 
-  
+
 </div>
 </div>
 <br/>
 <hr style="width: 50%; border: none; height: 1px; background-color: #ccc; margin: 20px auto;" />
-
 
 
 
