@@ -22,12 +22,12 @@
 <br/>
 <div align="center">
   <a href="mailto:antonioabias23.aa@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
   </a>
-  <a href="https://https://www.linkedin.com/in/antonio-abias-501a912b8" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://www.freeiconspng.com/uploads/linkedin-logo-white-png-images--pictures--becuo-16.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/antonio-abias-501a912b8" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank" title="Check out my portfolio">
+  <a href="https://png.pngtree.com/png-vector/20230316/ourmid/pngtree-website-under-construction-in-yellow-rounded-square-shape-with-black-line-vector-png-image_6649503.png" target="_blank" title="Check out my portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-%23FF6F61?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
