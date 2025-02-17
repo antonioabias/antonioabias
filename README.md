@@ -24,8 +24,8 @@
   <a href="mailto:antonioabias23.aa@gmail.com" target="_blank" title="Send me an email">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://https://www.linkedin.com/in/antonio-abias-501a912b8" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://www.freeiconspng.com/uploads/linkedin-logo-white-png-images--pictures--becuo-16.png" alt="LinkedIn"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank" title="Check out my portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-%23FF6F61?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
@@ -44,13 +44,23 @@
   
 ### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="35" height="35"/> E-Buddy: Personalized Criminology Board Exam Reviewer**
   
-- **Tech Stack**: HTML, CSS, JavaScript, Firebase
-- **Description**: As the lead developer in a two-person team, I played a pivotal role in creating **E-Buddy**, a dynamic web-based board exam reviewer for criminology students. Using the C4.5 decision tree algorithm, E-Buddy offers a user-friendly interface that personalizes the learning experience, helping students master key concepts and preparing them effectively for their exams.
+- **Tech Stack**: HTML, CSS, JavaScript, Firebase, Visual Studio Code
+- As the lead developer in a two-person team, I played a pivotal role in creating **E-Buddy**, a dynamic web-based board exam reviewer for criminology students. Using the C4.5 decision tree algorithm, E-Buddy offers a user-friendly interface that personalizes the learning experience, helping students master key concepts and preparing them effectively for their exams.
 
-### 2. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="35" height="35"/> Zombie Maze (Game Development Project)**
 
-- **Tech Stack**: Java
-- **Description**:  I led a team in developing "Zombie Maze," a game we created for the Software Festival in 2017 while I was in Grade 11. This project allowed me to combine my programming skills with artistic creativity, resulting in engaging visuals and compelling gameplay mechanics.
+### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="28" height="28" style="vertical-align: middle; margin-right: 8px;"/>  Sales Information System**
+
+- **Tech Stack**: PHP, MySQL, Brackets
+- Developed a Sales Information System for a local shop as part of our Grade 12 final project. The system streamlined inventory management and customer data using PHP for the backend and MySQL for the database. Built with Brackets, the web-based application provided an intuitive interface for shop owners to manage daily operations efficiently, improving productivity and reducing manual errors.
+
+
+### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="35" height="35"/> Zombie Maze (Game Development Project)**
+
+- **Tech Stack**: Java, Eclipse
+- I led a team in developing "Zombie Maze," a game we created for the Software Festival in 2017 while I was in Grade 11. This project allowed me to combine my programming skills with artistic creativity, resulting in engaging visuals and compelling gameplay mechanics.
+
+  
+</div>
 </div>
 <br/>
 <hr style="width: 50%; border: none; height: 1px; background-color: #ccc; margin: 20px auto;" />
