@@ -101,15 +101,15 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" style="padding: 0 20px; border: none;">
+      <td align="center" style="padding: 0 20px; border: none; width: 50%;">
         <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" alt="UNC Logo" width="50" />
         <br/>
         <strong style="font-size: 1.2em;">Bachelor of Science in Computer Science</strong>
         <br/>
         <span style="font-size: 0.8em; color: #555;">University of Nueva Caceres</span>
       </td>
-      <td align="center" style="padding: 0 20px; border: none;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYwBW0XIb0J3VOXY3aHTLp9iPnQ_wxHyuEFPBrcYs5HXCg9Cishfza2SUvLRPqjWCNoQ&usqp=CAU" alt="CamHigh Logo" width="50" />
+      <td align="center" style="padding: 0 20px; border: none; width: 50%;">
+        <img src="shs.png" alt="Camhigh Logo" width="50" />
         <br/>
         <strong style="font-size: 1.2em;">Computer Programming</strong>
         <br/>
@@ -119,22 +119,66 @@
   </table>
 </div>
 
-  <!-- Certifications -->
-  <h3>📜 Certifications</h3>
-  <div style="margin-left: 20px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li><strong>Amazon Web Services (AWS):</strong> Cloud Foundations | Cloud Operations | Cloud Architecting | Cloud Developing</li>
-      <li><strong>Google Cloud Skills Boost:</strong> Prompt Design in Vertex AI Skill Badge</li>
-      <li><strong>Cisco Networking Academy:</strong> Introduction to Cybersecurity</li>
-      <li><strong>Oracle Database Foundations:</strong> Certified Junior Associate</li>
-      <li><strong>Amazon Cybersecurity Awareness</strong></li>
-      <li><strong>Sololearn:</strong> SQL, Python, C</li>
-    </ul>
-  </div>
+
+
+
+
+<br/>
+<div align="center">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Introduction to Cybersecurity</strong><br/>
+        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/twitter_thumb_201604_I2CS__1_.png" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>AWS Academy Cloud Foundations</strong><br/>
+        <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>AWS Academy Cloud Operations</strong><br/>
+        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>AWS Academy Cloud Architecting</strong><br/>
+        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>AWS Academy Cloud Developing</strong><br/>
+        <img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" alt="Certificate" width="80" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Prompt Design in Vertex AI</strong><br/>
+        <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Amazon Cybersecurity Awareness</strong><br/>
+        <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2021/10/25/ACA_banner_title_4.jpg" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Sololearn: SQL</strong><br/>
+        <img src="https://www.sololearn.com/certificates/CT-3IAYESW6" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Sololearn: Python</strong><br/>
+        <img src="https://www.sololearn.com/certificates/CT-LMZMC23U" alt="Certificate" width="80" />
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        <strong>Sololearn: C</strong><br/>
+        <img src="https://www.sololearn.com/certificates/CT-EZI6DR5D" alt="Certificate" width="80" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 <hr/>
+
+
+
+
 
 <!--
 <h2>🎮 Mini Game: Catch the Ball 🎮</h2>
