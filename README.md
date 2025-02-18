@@ -1,14 +1,12 @@
-<div align="center">
-    <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif"/>    
-</div>
-
 <h1 align="center">
     <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=3000&pause=1000&color=11DAFF&center=true&width=590&height=100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Antonio+Abias+Jr.%2C;An+aspiring+Software+Engineer.;Let%E2%80%99s+connect+%E2%80%94+I%E2%80%99m+open+to+new+opportunities!&size=25&size=25&size=20" alt="Typing SVG" />
 </a>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=antonioabias.antonioabias" />
+<img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="150" height="150" alt="Small GIF"/>
 </h1>
 
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=antonioabias.antonioabias" />
 
 
 <h3 align="center">
