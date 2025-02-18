@@ -98,26 +98,26 @@
 <h2>🎓 Education & Certifications</h2>
 <br/>
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <!-- Education -->
-  <h3>📚 Education</h3>
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <!-- UNC -->
-    <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" alt="UNC Logo" width="50" style="margin-right: 15px;" />
-    <div>
-      <strong>Bachelor of Science in Computer Science</strong><br/>
-      <span style="font-size: 0.9em; color: #555;">University of Nueva Caceres</span>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <!-- CamHigh -->
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYwBW0XIb0J3VOXY3aHTLp9iPnQ_wxHyuEFPBrcYs5HXCg9Cishfza2SUvLRPqjWCNoQ&usqp=CAU" alt="CamHigh Logo" width="50" style="margin-right: 15px;" />
-    <div>
-      <strong>Computer Programming</strong><br/>
-      <span style="font-size: 0.9em; color: #555;">Camarines Sur National High School</span>
-    </div>
-  </div>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 0 20px; border: none;">
+        <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" alt="UNC Logo" width="50" />
+        <br/>
+        <strong style="font-size: 1.2em;">Bachelor of Science in Computer Science</strong>
+        <br/>
+        <span style="font-size: 0.8em; color: #555;">University of Nueva Caceres</span>
+      </td>
+      <td align="center" style="padding: 0 20px; border: none;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYwBW0XIb0J3VOXY3aHTLp9iPnQ_wxHyuEFPBrcYs5HXCg9Cishfza2SUvLRPqjWCNoQ&usqp=CAU" alt="CamHigh Logo" width="50" />
+        <br/>
+        <strong style="font-size: 1.2em;">Computer Programming</strong>
+        <br/>
+        <span style="font-size: 0.8em; color: #555;">Camarines Sur National High School</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
   <!-- Certifications -->
   <h3>📜 Certifications</h3>
