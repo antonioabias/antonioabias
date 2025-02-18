@@ -24,23 +24,6 @@
   ⚡ Fun fact: I enjoy combining programming with art to create engaging user experiences!
 </div>
 <br/>
-
-
-
-<div align="center">
-  <a href="mailto:antonioabias23.aa@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-abias-501a912b8" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://png.pngtree.com/png-vector/20230316/ourmid/pngtree-website-under-construction-in-yellow-rounded-square-shape-with-black-line-vector-png-image_6649503.png" target="_blank" title="Check out my portfolio">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/028/149/207/small_2x/3d-warning-or-danger-risk-message-alert-problem-icon-png.png" alt="Portfolio" width="35" height="35" style="vertical-align: middle;" />
-  </a>
-</div>
-
-
-
 <br/>
 <hr/>
 
