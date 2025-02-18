@@ -159,15 +159,15 @@
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Sololearn: SQL</strong><br/>
-        <img src="https://www.sololearn.com/certificates/CT-3IAYESW6" alt="Certificate" width="80" />
+        <img src="https://api2.sololearn.com/v2/certificates/CT-3IAYESW6/image/jpg?t=638455748691031950" alt="Certificate" width="80" />
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Sololearn: Python</strong><br/>
-        <img src="https://www.sololearn.com/certificates/CT-LMZMC23U" alt="Certificate" width="80" />
+        <img src="https://api2.sololearn.com/v2/certificates/CT-LMZMC23U/image/jpg?t=638755188080910400" alt="Certificate" width="80" />
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <strong>Sololearn: C</strong><br/>
-        <img src="https://www.sololearn.com/certificates/CT-EZI6DR5D" alt="Certificate" width="80" />
+        <img src="https://api2.sololearn.com/v2/certificates/CT-EZI6DR5D/image/jpg?t=638422726540805970" alt="Certificate" width="80" />
       </td>
     </tr>
   </table>
