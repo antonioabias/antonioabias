@@ -9,15 +9,15 @@
     <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
 </div>
 <div>
+    
    🚀 I’m actively improving my skills in software engineering and web development while building creative and impactful projects.
-
+    
    🎨 Focused on learning React.js and Node.js, while leveraging Framer and Figma to craft professional and engaging website designs.
-
+   
    💡 Experienced in front-end development and UI/UX design, with a passion for crafting seamless and visually appealing digital experiences.
    
    🎭 Fun fact: My background in visual arts helps me design intuitive and aesthetic user interfaces!
 </div>
-
 <br/>
 <hr/>
 
