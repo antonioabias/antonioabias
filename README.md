@@ -20,9 +20,8 @@
 
 
 <h2 align="center">🎯 Projects & Contributions</h2>
-<br/>
 <div>
-  
+
 ### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: A Personalized Board Exam Reviewer**
   
 - **Description**: A web-based reviewer for criminology students that customizes study sessions using the C4.5 decision tree algorithm, recommending retakes based on performance.
