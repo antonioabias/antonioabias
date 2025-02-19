@@ -108,7 +108,8 @@
 <hr/>
 -->
 
-
+<br/>
+<br/>
 <div align="center">
     <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
     <!--<img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/yamper.gif" width="25" height="30" alt="Yamper GIF"/>-->
