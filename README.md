@@ -19,6 +19,19 @@
 
 
 
+
+<h2 align="center">🛠️ Languages, Frameworks, and Tools</h2>
+
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,cpp,javascript,php,dart,html,css,jquery,nodejs,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,eclipse,github,visualstudio,vscode,aws,gcp,windows,powershell,npm,twitter,linkedin,figma" /><br>
+</div>
+<br/>
+<hr/>
+
+
+
 <h2 align="center">🎯 Projects & Contributions</h2>
 <div>
 
@@ -44,18 +57,6 @@
 <br/>
 <hr style="width: 50%; border: none; height: 1px; background-color: #ccc; margin: 20px auto;" />
 
-
-
-
-<h2 align="center">🛠️ Languages, Frameworks, and Tools</h2>
-
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,cpp,javascript,php,dart,html,css,jquery,nodejs,react,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,eclipse,github,visualstudio,vscode,aws,gcp,windows,powershell,npm,twitter,linkedin,figma" /><br>
-</div>
-<br/>
-<hr/>
 
 
 
