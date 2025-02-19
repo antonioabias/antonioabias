@@ -6,7 +6,7 @@
 
 <div>
     
-   🚀 I’m actively improving my skills in software engineering and web development while building creative and impactful projects.
+   🚀 I'm continuously enhancing my skills in software engineering and web development while building creative and impactful projects.
     
    🎨 Focused on learning React.js and Node.js, while leveraging Framer and Figma to craft professional and engaging website designs.
    
@@ -27,19 +27,19 @@
   
 - **Description**: A web-based reviewer for criminology students that customizes study sessions using the C4.5 decision tree algorithm, recommending retakes based on performance.
 - **Tech Stack**: React.js, Node.js, Firebase (Firestore), HTML, CSS, JavaScript
-- **My Role**: I designed and developed the front-end interface, implemented Firebase Authentication and Firestore, and optimized the decision tree logic for adaptive learning.
+- **Key Contributions**: I designed and developed the front-end interface, implemented Firebase Authentication and Firestore, and optimized the decision tree logic for adaptive learning.
 
 ### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
 
 - **Description**: A web-based solution created to automate sales tracking and inventory management for a local shop, making operations smoother and reducing errors.
 - **Tech Stack**: PHP, MySQL, JavaScript
-- **My Role**: I designed and developed the front-end interface, contributed to the database structure for better inventory tracking, and built the logic for sales monitoring.
+- **Key Contributions**: I designed and developed the front-end interface, contributed to the database structure for better inventory tracking, and built the logic for sales monitoring.
 
 ### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
 
 - **Description**: A 2D maze survival game where players navigate levels while avoiding zombies, created as a senior high school project for the Software Festival in 2017.
 - **Tech Stack**: Java
-- **My Role**: I led the development of Zombie Maze, designing the gameplay mechanics and visuals. I combined programming skills with creativity to make it both engaging and technically solid.
+- **Key Contributions**: I led the development of Zombie Maze, designing the gameplay mechanics and visuals. I combined programming skills with creativity to make it both engaging and technically solid.
   
 </div>
 <br/>
@@ -109,6 +109,7 @@
 
 <div align="center">
     <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
+    <!--<img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/yamper.gif" width="25" height="30" alt="Yamper GIF"/>-->
 </div>
 
 <!--
