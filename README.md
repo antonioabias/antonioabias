@@ -4,10 +4,6 @@
 </a>
 </h1>
 
-
-<div align="center">
-    <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
-</div>
 <div>
     
    🚀 I’m actively improving my skills in software engineering and web development while building creative and impactful projects.
@@ -66,26 +62,24 @@
 
 <h2 align="center">🎓 Education </h2>
 <br/>
+<br/>
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 0 20px; border: none; width: 50%;">
-        <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" alt="UNC Logo" width="50" />
-        <br/>
-        <strong style="font-size: 1.2em;">Bachelor of Science in Computer Science</strong>
-        <br/>
-        <span style="font-size: 0.8em; color: #555;">University of Nueva Caceres</span>
-      </td>
-      <td align="center" style="padding: 0 20px; border: none; width: 50%;">
-        <img src="shs.png" alt="Camhigh Logo" width="50" />
-        <br/>
-        <strong style="font-size: 1.2em;">Computer Programming</strong>
-        <br/>
-        <span style="font-size: 0.8em; color: #555;">Camarines Sur National High School</span>
-      </td>
-    </tr>
-  </table>
+    <table width="100%">
+      <tr>
+        <td width="50%" valign="middle">
+          <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" width="60" align="left" style="margin-right: 1px;">
+          <strong>Bachelor of Science in Computer Science</strong><br>
+          University of Nueva Caceres  
+        </td>
+        <td width="50%" valign="middle">
+          <img src="shs.png" width="60" align="left" style="margin-right: 1px;">
+          <strong>Computer Programming</strong><br>
+          Camarines Sur National High School  
+        </td>
+      </tr>
+    </table>
 </div>
+
 
 <br/>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #007BFF, #ffffff); margin: 20px 0;" />
@@ -148,7 +142,9 @@
 <br/>
 <hr/>
 
-
+<div align="center">
+    <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
+</div>
 
 <!--
 <h2>⚡ Stats</h2>
