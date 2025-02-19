@@ -20,18 +20,6 @@
 
 
 
-<h2 align="center">🛠️ Languages, Frameworks, and Tools</h2>
-
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,cpp,javascript,php,dart,html,css,jquery,nodejs,react,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,eclipse,github,visualstudio,vscode,aws,gcp,windows,powershell,npm,twitter,linkedin,figma" /><br>
-</div>
-<br/>
-<hr/>
-
-
-
 <h2 align="center">🎯 Projects & Contributions</h2>
 <div>
 
@@ -59,7 +47,19 @@
 
 
 
+<h2 align="center">🛠️ Languages, Frameworks, and Tools</h2>
 
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,cpp,javascript,php,dart,html,css,jquery,nodejs,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,eclipse,github,visualstudio,vscode,aws,gcp,windows,powershell,npm,twitter,linkedin,figma" /><br>
+</div>
+<br/>
+<hr/>
+
+
+
+<!--
 <h2 align="center">🎓 Education </h2>
 <br/>
 <br/>
@@ -106,6 +106,8 @@
 </div>
 <br/>
 <hr/>
+-->
+
 
 <div align="center">
     <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
