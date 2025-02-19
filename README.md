@@ -27,29 +27,28 @@
 <br/>
 <div>
   
-### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: Personalized Learning System**
+### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: A Personalized Board Exam Reviewer**
   
-- **Description**: A personalized criminology board exam reviewer using the C4.5 decision tree algorithm to recommend retakes based on user performance.
-- **Tech Stack**: Firestore, React, Node.js
-- **My Role**: Designed the frontend UI/UX, implemented Firestore integration, and optimized decision tree logic for adaptive learning.
-
+- **Description**: A web-based reviewer for criminology students that customizes study sessions using the C4.5 decision tree algorithm, recommending retakes based on performance.
+- **Tech Stack**: React.js, Node.js, Firebase (Firestore), HTML, CSS, JavaScript
+- **My Role**: I designed and developed the front-end interface, implemented Firebase Authentication and Firestore, and optimized the decision tree logic for adaptive learning.
 
 ### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
 
-- **Description**: A system that automates sales tracking, reporting, and inventory management for small businesses.
-- **Tech Stack**: MySQL, PHP, JavaScript
-- **My Role**: Designed the frontend UI/UX, implemented Firestore integration, and optimized decision tree logic for adaptive learning.
+- **Description**: A web-based solution created to automate sales tracking and inventory management for a local shop, making operations smoother and reducing errors.
+- **Tech Stack**: PHP, MySQL, JavaScript
+- **My Role**: I designed and developed the front-end interface, contributed to the database structure for better inventory tracking, and built the logic for sales monitoring.
 
-### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game (Unavailable)**
+### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
 
-- **Description**: A 2D maze survival game where players navigate through levels while avoiding zombies.
+- **Description**: A 2D maze survival game where players navigate levels while avoiding zombies, created as a senior high school project for the Software Festival in 2017.
 - **Tech Stack**: Java
-- **My Role**: Designed the frontend UI/UX, implemented Firestore integration, and optimized decision tree logic for adaptive learning.
-
-</div>
+- **My Role**: I led the development of Zombie Maze, designing the gameplay mechanics and visuals. I combined programming skills with creativity to make it both engaging and technically solid.
+  
 </div>
 <br/>
 <hr style="width: 50%; border: none; height: 1px; background-color: #ccc; margin: 20px auto;" />
+
 
 
 
@@ -161,10 +160,3 @@
 <hr/>
 <br/>
 -->
-
-
-
-
-<h2>Thank You for Visiting! 🙏</h2>
-<br/>
-
