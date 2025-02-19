@@ -79,8 +79,6 @@
       </tr>
     </table>
 </div>
-
-
 <br/>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #007BFF, #ffffff); margin: 20px 0;" />
 
@@ -88,57 +86,24 @@
 
 
 <h2 align="center">🏆 Certifications</h2>
-<div align="center" style="background: linear-gradient(to bottom, #f9f9ff, #ffffff); padding: 20px; border-radius: 10px;">
-  <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Introduction to Cybersecurity</strong><br/>
-        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/twitter_thumb_201604_I2CS__1_.png" alt="Certificate" width="80" r/>
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>AWS Academy Cloud Foundations</strong><br/>
-        <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Certificate" width="80" />
-      </td>
-     <td align="center" style="padding: 10px; border: none;">
-        <strong>AWS Academy Cloud Operations</strong><br/>
-        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>AWS Academy Cloud Architecting</strong><br/>
-        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>AWS Academy Cloud Developing</strong><br/>
-        <img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" alt="Certificate" width="80" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Prompt Design in Vertex AI</strong><br/>
-        <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Amazon Cybersecurity Awareness</strong><br/>
-        <img src="https://cdn.prod.website-files.com/5e5ff4f0165cd367cc7ca88f/66e1be80b07de60f7a97b34c_1692258829281.png" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Sololearn: SQL</strong><br/>
-        <img src="https://api2.sololearn.com/v2/certificates/CT-3IAYESW6/image/jpg?t=638455748691031950" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Sololearn: Python</strong><br/>
-        <img src="https://api2.sololearn.com/v2/certificates/CT-LMZMC23U/image/jpg?t=638755188080910400" alt="Certificate" width="80" />
-      </td>
-      <td align="center" style="padding: 10px; border: none;">
-        <strong>Sololearn: C</strong><br/>
-        <img src="https://api2.sololearn.com/v2/certificates/CT-EZI6DR5D/image/jpg?t=638422726540805970" alt="Certificate" width="80" />
-      </td>
-    </tr>
-  </table>
+<br/>
+<br/>
+<div align="center">
+    <p align="center">
+        <a href="https://www.credly.com/badges/ff7d733e-0bc4-4eb4-8b24-334cb765520b/public_url"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/twitter_thumb_201604_I2CS__1_.png" width="80" /></a>
+        <a href=""><img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="80" /></a>
+        <br/>
+        <a href=""><img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="80" /></a>
+        <a href=""><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="80" /></a>
+        <a href=""><img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="80" /></a>
+        <a href=""><img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="80" /></a>
+        <br/>
+        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-3IAYESW6/image/jpg?t=638455748691031950" width="80" /></a>   
+        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-EZI6DR5D/image/jpg?t=638422726540805970" width="80" / ></a>
+        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-LMZMC23U/image/jpg?t=638755188080910400" width="80" /></a>
+        <br/>
+    </p>
 </div>
-      
-</div>
-
 <br/>
 <hr/>
 
