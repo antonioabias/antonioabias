@@ -91,16 +91,16 @@
 <div align="center">
     <p align="center">
         <a href="https://www.credly.com/badges/ff7d733e-0bc4-4eb4-8b24-334cb765520b/public_url"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/twitter_thumb_201604_I2CS__1_.png" width="80" /></a>
-        <a href=""><img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="80" /></a>
+        <a href="https://www.credly.com/badges/d276c12b-93ca-432c-93cf-939194450f2e/public_url"><img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="80" /></a>
         <br/>
-        <a href=""><img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="80" /></a>
-        <a href=""><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="80" /></a>
-        <a href=""><img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="80" /></a>
-        <a href=""><img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="80" /></a>
+        <a href="https://www.credly.com/badges/2a9504f4-4647-4427-8b8c-ec729b1670e3/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="80" /></a>
+        <a href="https://www.credly.com/badges/86272c73-d6fc-45bb-be5c-4775f3d5942c/public_url"><img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="80" /></a>
+        <a href="https://www.credly.com/badges/cb1341ea-775d-489f-8149-da2f35459e15/public_url"><img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="80" /></a>
+        <a href="https://www.credly.com/badges/a15d5924-0d8a-4b89-ab2b-e46c6e03c64d/public_url"><img src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="80" /></a>
         <br/>
-        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-3IAYESW6/image/jpg?t=638455748691031950" width="80" /></a>   
-        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-EZI6DR5D/image/jpg?t=638422726540805970" width="80" / ></a>
-        <a href=""><img src="https://api2.sololearn.com/v2/certificates/CT-LMZMC23U/image/jpg?t=638755188080910400" width="80" /></a>
+        <a href="https://www.sololearn.com/certificates/CT-3IAYESW6"><img src="https://api2.sololearn.com/v2/certificates/CT-3IAYESW6/image/jpg?t=638455748691031950" width="80" /></a>   
+        <a href="https://www.sololearn.com/certificates/CT-EZI6DR5D"><img src="https://api2.sololearn.com/v2/certificates/CT-EZI6DR5D/image/jpg?t=638422726540805970" width="80" / ></a>
+        <a href="https://www.sololearn.com/certificates/CT-LMZMC23U"><img src="https://api2.sololearn.com/v2/certificates/CT-LMZMC23U/image/jpg?t=638755188080910400" width="80" /></a>
         <br/>
     </p>
 </div>
