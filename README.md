@@ -59,26 +59,31 @@
 
 
 
-<!--
 <h2 align="center">🎓 Education </h2>
 <br/>
 <br/>
 <div align="center">
     <table width="100%">
-      <tr>
-        <td width="50%" valign="middle">
-          <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" width="60" align="left" style="margin-right: 1px;">
+      <tr> 
+        <td width="33%" valign="middle">
+          <img src="shs.png" width="60" align="left" style="margin-right: 10px;">
+          <strong>Visual Arts</strong><br>
+          Camarines Sur National High School (JHS)
+        </td>
+        <td width="33%" valign="middle">
+          <img src="shs.png" width="60" align="left" style="margin-right: 10px;">
+          <strong>Computer Programming</strong><br>
+          Camarines Sur National High School (SHS)
+        </td>
+        <td width="33%" valign="middle">
+          <img src="https://unc.neolms.eu/files/86109/1200px-University_of_Nueva_Caceres_Seal(6).png?lmsauth=0d3e8d79854064302d3a29dc0243b9cba24f367f" width="60" align="left" style="margin-right: 10px;">
           <strong>Bachelor of Science in Computer Science</strong><br>
           University of Nueva Caceres  
-        </td>
-        <td width="50%" valign="middle">
-          <img src="shs.png" width="60" align="left" style="margin-right: 1px;">
-          <strong>Computer Programming</strong><br>
-          Camarines Sur National High School  
-        </td>
+        </td>       
       </tr>
     </table>
 </div>
+
 <br/>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #007BFF, #ffffff); margin: 20px 0;" />
 
@@ -106,7 +111,7 @@
 </div>
 <br/>
 <hr/>
--->
+
 
 <br/>
 <br/>
