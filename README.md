@@ -119,14 +119,3 @@
     <img src="https://media2.giphy.com/media/kIqoOwOEurUpArjFkn/200w.gif" width="75" height="75" alt="Small GIF"/>
     <!--<img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/yamper.gif" width="25" height="30" alt="Yamper GIF"/>-->
 </div>
-
-<!--
-<h2>⚡ Stats</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=antonioabias&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-<br/><br/>
-<hr/>
-<br/>
--->
