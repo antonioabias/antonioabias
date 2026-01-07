@@ -18,8 +18,7 @@
 <hr/>
 
 
-
-
+<!--
 <h2 align="center">🎯 Projects & Contributions</h2>
 <div>
 
@@ -44,7 +43,7 @@
 </div>
 <br/>
 <hr style="width: 50%; border: none; height: 1px; background-color: #ccc; margin: 20px auto;" />
-
+-->
 
 
 <h2 align="center">🛠️ Languages, Frameworks, and Tools</h2>
