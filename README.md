@@ -8,7 +8,7 @@
     
    🚀 I'm continuously enhancing my skills in software engineering and web development while building creative and impactful projects.
     
-   🎨 Focused on learning React.js and Node.js, while leveraging Framer and Figma to craft professional and engaging website designs.
+   🎨 Focused on building with React.js and Node.js, while leveraging Framer and Figma to craft professional and engaging website designs.
    
    💡 Experienced in front-end development and UI/UX design, with a passion for crafting seamless and visually appealing digital experiences.
    
