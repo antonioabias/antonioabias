@@ -28,7 +28,7 @@
 - **Tech Stack**: React.js, Node.js, Firebase (Firestore), HTML, CSS, JavaScript
 - **Key Contributions**: I designed and developed the front-end interface, implemented Firebase Authentication and Firestore, and optimized the decision tree logic for adaptive learning.
 
-### 2. **<img src="https://megaproplus.com/wp-content/uploads/2024/03/mp.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
+### 2. **<img src="https://cdn-icons-png.flaticon.com/512/12474/12474060.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
 
 - **Description**: A web-based solution created to automate sales tracking and inventory management for a local shop, making operations smoother and reducing errors.
 - **Tech Stack**: PHP, MySQL, JavaScript
