@@ -42,7 +42,7 @@
 
 ### 4. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
 
-- **Description**: A 2D maze survival game where players navigate levels while avoiding zombies, created as a senior high school project for the Software Festival in 2017.
+- **Description**: A 2D maze survival game where players escape through the exit door while avoiding zombies, created as a senior high school project for the Software Festival in 2017.
 - **Tech Stack**: Java
 - **Key Contributions**: I led the development of Zombie Maze, designing the gameplay mechanics and visuals. I combined programming skills with creativity to make it both engaging and technically solid.
   
