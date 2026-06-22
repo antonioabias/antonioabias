@@ -21,20 +21,25 @@
 
 <h2 align="center">🎯 Projects & Contributions</h2>
 <div>
-
-### 1. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: A Personalized Board Exam Reviewer**
+### 1. **<img src="ac archi.jpg" alt="AC archi" width="30" height="30"/> AC Architectural Studio Website**
+  
+- **Description**: A company website for an architectural studio serving local and international clients. Features a project gallery, services page, client inquiry system, and an AI chatbot powered by Gemini API to answer visitor questions. Currently in progress.
+- **Tech Stack**: React.js, Gemini API
+- **Key Contributions**: Handling full design and development. Building the frontend, integrating the AI chatbot, and setting up the client inquiry system.
+  
+### 2. **<img src="e-buddy.png" alt="E-Buddy Logo" width="30" height="30"/> E-Buddy: A Personalized Board Exam Reviewer**
   
 - **Description**: A web-based reviewer for criminology students that customizes study sessions using the C4.5 decision tree algorithm, recommending retakes based on performance.
 - **Tech Stack**: React.js, Node.js, Firebase (Firestore), HTML, CSS, JavaScript
 - **Key Contributions**: I designed and developed the front-end interface, implemented Firebase Authentication and Firestore, and optimized the decision tree logic for adaptive learning.
 
-### 2. **<img src="https://cdn-icons-png.flaticon.com/512/12474/12474060.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
+### 3. **<img src="https://cdn-icons-png.flaticon.com/512/12474/12474060.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
 
 - **Description**: A web-based solution created to automate sales tracking and inventory management for a local shop, making operations smoother and reducing errors.
 - **Tech Stack**: PHP, MySQL, JavaScript
 - **Key Contributions**: I designed and developed the front-end interface, contributed to the database structure for better inventory tracking, and built the logic for sales monitoring.
 
-### 3. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
+### 4. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
 
 - **Description**: A 2D maze survival game where players navigate levels while avoiding zombies, created as a senior high school project for the Software Festival in 2017.
 - **Tech Stack**: Java
