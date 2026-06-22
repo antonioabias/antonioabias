@@ -100,6 +100,7 @@
 <br/>
 <div align="center">
     <p align="center">
+        <a href="https://verify.skilljar.com/c/s3q85r47e7gg"><img src="claude101.jpg width="80" /></a>
         <a href="https://www.credly.com/badges/ff7d733e-0bc4-4eb4-8b24-334cb765520b/public_url"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/twitter_thumb_201604_I2CS__1_.png" width="80" /></a>
         <a href="https://www.credly.com/badges/d276c12b-93ca-432c-93cf-939194450f2e/public_url"><img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="80" /></a>
         <br/>
