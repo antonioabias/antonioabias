@@ -21,6 +21,7 @@
 
 <h2 align="center">🎯 Projects & Contributions</h2>
 <div>
+    
 ### 1. **<img src="ac archi.jpg" alt="AC archi" width="30" height="30"/> AC Architectural Studio Website**
   
 - **Description**: A company website for an architectural studio serving local and international clients. Features a project gallery, services page, client inquiry system, and an AI chatbot powered by Gemini API to answer visitor questions. Currently in progress.
