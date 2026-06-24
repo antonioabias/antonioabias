@@ -36,9 +36,9 @@
 
 ### 3. **<img src="https://cdn-icons-png.flaticon.com/512/12474/12474060.png" alt="Store Logo" width="27" height="27" style="vertical-align: middle; margin-right: 8px;"/> Sales Information System**
 
-- **Description**: A web-based solution created to automate sales tracking and inventory management for a local shop, making operations smoother and reducing errors.
-- **Tech Stack**: PHP, MySQL, JavaScript
-- **Key Contributions**: I designed and developed the front-end interface, contributed to the database structure for better inventory tracking, and built the logic for sales monitoring.
+- **Description**: A web-based sales and inventory management system built for a local shop. Features customer records, product inventory, loyalty card tracking, and a sales dashboard to reduce manual errors and streamline daily operations.
+- **Tech Stack**: PHP, MySQL, JavaScript, XAMPP
+- **Key Contributions**: Designed the frontend interface, structured the MySQL database for inventory and customer tracking, built the special card loyalty module with full CRUD, and developed the sales monitoring logic with transaction history.
 
 ### 4. **<img src="https://cdn-icons-png.flaticon.com/256/11892/11892377.png" alt="Game Logo" width="30" height="30"/> Zombie Maze Game**
 
